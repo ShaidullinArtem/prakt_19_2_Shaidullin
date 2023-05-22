@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List of traffic tickets</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="enter">Войти</string>
+    <string name="pdd">Правила дорожного движения</string>
+    <string name="addbilets">Добавить</string>
+    <string name="numbertickets">Введите номер билета</string>
+    <string name="typetickets">Введите тип билета</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Отчистить</string>
+    <string name="aggbilets">Добавить новые билеты</string>
+    <string name="listBilets">Список билетов</string>
+    <string name="obnov">Обновить</string>
+
+</resources>
